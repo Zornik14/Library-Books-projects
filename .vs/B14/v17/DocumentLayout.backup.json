@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|C:\\Users\\nikol\\Desktop\\Projects\\B14\\b14\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|solutionrelative:b14\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|c:\\users\\nikol\\desktop\\projects\\b14\\b14\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|solutionrelative:b14\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|C:\\Users\\nikol\\Desktop\\Projects\\B14\\b14\\po_autorima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|solutionrelative:b14\\po_autorima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|C:\\Users\\nikol\\Desktop\\Projects\\B14\\b14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|solutionrelative:b14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|C:\\Users\\nikol\\Desktop\\Projects\\B14\\b14\\unos autora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|solutionrelative:b14\\unos autora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|c:\\users\\nikol\\desktop\\projects\\b14\\b14\\snimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|solutionrelative:b14\\snimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|c:\\users\\nikol\\desktop\\projects\\b14\\b14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|solutionrelative:b14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|c:\\users\\nikol\\desktop\\projects\\b14\\b14\\konekcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|solutionrelative:b14\\konekcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|C:\\Users\\nikol\\Desktop\\Projects\\B14\\b14\\unos autora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603BBAD3-8618-4801-8C56-C6DA9367EDC0}|B14\\B14.csproj|solutionrelative:b14\\unos autora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Info.cs",
+              "RelativeDocumentMoniker": "B14\\Info.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Info.cs*",
+              "RelativeToolTip": "B14\\Info.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:56:44.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "snimi.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\snimi.cs",
+              "RelativeDocumentMoniker": "B14\\snimi.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\snimi.cs",
+              "RelativeToolTip": "B14\\snimi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:55:50.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Program.cs",
+              "RelativeDocumentMoniker": "B14\\Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Program.cs",
+              "RelativeToolTip": "B14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:55:48.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Po_autorima.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Po_autorima.cs",
+              "RelativeDocumentMoniker": "B14\\Po_autorima.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Po_autorima.cs [Design]",
+              "RelativeToolTip": "B14\\Po_autorima.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T18:56:37.34Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Info.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Info.cs",
+              "RelativeDocumentMoniker": "B14\\Info.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Info.cs [Design]*",
+              "RelativeToolTip": "B14\\Info.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-24T21:08:53.485Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Form1.cs",
+              "RelativeDocumentMoniker": "B14\\Form1.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Form1.cs [Design]",
+              "RelativeToolTip": "B14\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-24T21:08:51.923Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Unos Autora.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Unos Autora.cs",
+              "RelativeDocumentMoniker": "B14\\Unos Autora.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Unos Autora.cs",
+              "RelativeToolTip": "B14\\Unos Autora.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwEEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-01-24T11:48:11.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Unos Autora.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Unos Autora.cs",
+              "RelativeDocumentMoniker": "B14\\Unos Autora.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Unos Autora.cs [Design]",
+              "RelativeToolTip": "B14\\Unos Autora.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-01-24T11:48:01.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Konekcija.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Konekcija.cs",
+              "RelativeDocumentMoniker": "B14\\Konekcija.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\Projects\\B14\\B14\\Konekcija.cs",
+              "RelativeToolTip": "B14\\Konekcija.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-01-24T11:46:08.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
